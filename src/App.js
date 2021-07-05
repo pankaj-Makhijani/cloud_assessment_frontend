@@ -31,7 +31,7 @@ class App extends Component {
               Hurry Up Register Now, Only Few seats left!🚀
             </div>
             <div className="form-body">
-              <form method="post" action="http://localhost:3001">
+              <form method="post" action="http://backend_pulic_ip:port">
                 <div className="name">
                   <label htmlFor="name">Enter Name:</label>
                   <input
